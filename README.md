@@ -13,7 +13,9 @@ A responsive and animated hero section for a barbershop website built using **Ne
 
 ## 🖼️ Preview
 
-![Hero Section Screenshot](https://ext.same-assets.com/336778205/1645779418.webp)
+![Hero Section Screenshot](https://github.com/user-attachments/assets/328bbe9a-7b9e-433b-b163-a52d9fc71875)
+
+
 
 
 ## 🧰 Built With
